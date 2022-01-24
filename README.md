@@ -17,7 +17,7 @@ First of all, the authentication password. Which is required to connect with eve
 
 ```
 KEY                                       VALUE
-MYSQL_PASSWORD    {your_cache_password}
+MYSQL_PASSWORD                    {your_cache_password}
 ```
 
 ## Instance information through environment variables
